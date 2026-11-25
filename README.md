@@ -61,7 +61,7 @@ LANGUAGES    <DIR>    python  java  javascript  c#  c
 FRONTEND     <DIR>    react  react-native  nativewind  tailwind  css
 BACKEND      <DIR>    spring-boot  flask  fastapi  django
 AI_AGENTS    <DIR>    spec-driven-development
-DATA         <DIR>    postgresql  sqlite  duckdb  redis
+DATA         <DIR>    postgresql  sqlite  duckdb  pyspark  redis
 MESSAGING    <DIR>    rabbitmq
 CLOUD_DEVOPS <DIR>    aws  docker  ci-cd
 AUTOMATION   <DIR>    power-automate
@@ -100,6 +100,7 @@ AUTOMATION   <DIR>    power-automate
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0a0f0a?style=for-the-badge&logo=postgresql&logoColor=33ff66)
 ![SQLite](https://img.shields.io/badge/SQLite-0a0f0a?style=for-the-badge&logo=sqlite&logoColor=33ff66)
 ![DuckDB](https://img.shields.io/badge/DuckDB-0a0f0a?style=for-the-badge&logo=duckdb&logoColor=33ff66)
+![PySpark](https://img.shields.io/badge/PySpark-0a0f0a?style=for-the-badge&logo=apachespark&logoColor=33ff66)
 ![Redis](https://img.shields.io/badge/Redis-0a0f0a?style=for-the-badge&logo=redis&logoColor=33ff66)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-0a0f0a?style=for-the-badge&logo=rabbitmq&logoColor=33ff66)
 
