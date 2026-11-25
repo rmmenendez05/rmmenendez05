@@ -33,11 +33,11 @@
 
 > I write code that **solves real problems**: automation, scripting and efficient software.
 
-- 💻 Always leveling up my **software development** skills
-- ⚡ Fan of how **scripting** speeds up everyday tasks
-- 🤖 Building with **AI agents** using **Spec-Driven Development**
-- 🎮 Into **computer games**
-- 🏅 Short-term goal: earn **certifications** that back up my technical skills
+- <img src="./assets/icons/monitor.svg" width="18" height="18" alt=""/> Always leveling up my **software development** skills
+- <img src="./assets/icons/bolt.svg" width="18" height="18" alt=""/> Fan of how **scripting** speeds up everyday tasks
+- <img src="./assets/icons/robot.svg" width="18" height="18" alt=""/> Building with **AI agents** using **Spec-Driven Development**
+- <img src="./assets/icons/gamepad.svg" width="18" height="18" alt=""/> Into **computer games**
+- <img src="./assets/icons/medal.svg" width="18" height="18" alt=""/> Short-term goal: earn **certifications** that back up my technical skills
 
 <a name="work"></a>
 <img src="./assets/title-work.svg" width="100%" alt="C:\> TYPE WORK.LOG"/>
@@ -69,7 +69,7 @@ AUTOMATION   <DIR>    power-automate
               9 Dir(s)   ∞ bytes free for learning
 ```
 
-#### 💾 Languages
+#### <img src="./assets/icons/floppy.svg" width="18" height="18" alt=""/> Languages
 
 ![Python](https://img.shields.io/badge/Python-0a0f0a?style=for-the-badge&logo=python&logoColor=33ff66)
 ![Java](https://img.shields.io/badge/Java-0a0f0a?style=for-the-badge&logo=openjdk&logoColor=33ff66)
@@ -78,13 +78,13 @@ AUTOMATION   <DIR>    power-automate
 ![C#](https://img.shields.io/badge/C%23-0a0f0a?style=for-the-badge&logo=dotnet&logoColor=33ff66)
 ![C](https://img.shields.io/badge/C-0a0f0a?style=for-the-badge&logo=c&logoColor=33ff66)
 
-#### ⌨️ Shell & Scripting
+#### <img src="./assets/icons/keyboard.svg" width="18" height="18" alt=""/> Shell & Scripting
 
 ![Bash](https://img.shields.io/badge/Bash-0a0f0a?style=for-the-badge&logo=gnubash&logoColor=ffb000)
 ![PowerShell](https://img.shields.io/badge/PowerShell-0a0f0a?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmYjAwMCIgZD0iTTMgNGgxOGwtMyAxNkgweiIvPjxwYXRoIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzBhMGYwYSIgc3Ryb2tlLXdpZHRoPSIyLjIiIGQ9Ik02IDhsNSA0LTYgNCIvPjxwYXRoIGZpbGw9IiMwYTBmMGEiIGQ9Ik0xMSAxNWg1djJoLTV6Ii8+PC9zdmc+)
 ![CMD](https://img.shields.io/badge/CMD-0a0f0a?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHJlY3QgeD0iMSIgeT0iMyIgd2lkdGg9IjIyIiBoZWlnaHQ9IjE4IiBmaWxsPSIjZmZiMDAwIi8+PHJlY3QgeD0iMyIgeT0iNyIgd2lkdGg9IjE4IiBoZWlnaHQ9IjEyIiBmaWxsPSIjMGEwZjBhIi8+PHBhdGggZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZiMDAwIiBzdHJva2Utd2lkdGg9IjEuOCIgZD0iTTUgMTBsMyAyLjVMNSAxNSIvPjxwYXRoIGZpbGw9IiNmZmIwMDAiIGQ9Ik0xMCAxNGg1djEuNmgtNXoiLz48L3N2Zz4=)
 
-#### 🖥️ Front-end & Mobile
+#### <img src="./assets/icons/window.svg" width="18" height="18" alt=""/> Front-end & Mobile
 
 ![React](https://img.shields.io/badge/React-0a0f0a?style=for-the-badge&logo=react&logoColor=ffb000)
 ![React Native](https://img.shields.io/badge/React_Native-0a0f0a?style=for-the-badge&logo=react&logoColor=ffb000)
@@ -92,18 +92,18 @@ AUTOMATION   <DIR>    power-automate
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0a0f0a?style=for-the-badge&logo=tailwindcss&logoColor=ffb000)
 ![CSS](https://img.shields.io/badge/CSS-0a0f0a?style=for-the-badge&logo=css&logoColor=ffb000)
 
-#### 🔌 Back-end
+#### <img src="./assets/icons/server.svg" width="18" height="18" alt=""/> Back-end
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-0a0f0a?style=for-the-badge&logo=springboot&logoColor=33ff66)
 ![Flask](https://img.shields.io/badge/Flask-0a0f0a?style=for-the-badge&logo=flask&logoColor=33ff66)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0a0f0a?style=for-the-badge&logo=fastapi&logoColor=33ff66)
 ![Django](https://img.shields.io/badge/Django-0a0f0a?style=for-the-badge&logo=django&logoColor=33ff66)
 
-#### 🤖 AI Agent Frameworks
+#### <img src="./assets/icons/robot.svg" width="18" height="18" alt=""/> AI Agent Frameworks
 
 ![Spec-Driven Development](https://img.shields.io/badge/Spec--Driven_Development-0a0f0a?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iIzMzZmY2NiIgZD0iTTUgMmgxMGw0IDR2MTZINXoiLz48cGF0aCBmaWxsPSIjMGEwZjBhIiBkPSJNOCA5aDh2MS42SDh6bTAgMy41aDh2MS42SDh6Ii8+PHBhdGggZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMGEwZjBhIiBzdHJva2Utd2lkdGg9IjIiIGQ9Ik04LjUgMTcuNWwyIDIgNC00Ii8+PC9zdmc+)
 
-#### 🗄️ Data & Messaging
+#### <img src="./assets/icons/database.svg" width="18" height="18" alt=""/> Data & Messaging
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0a0f0a?style=for-the-badge&logo=postgresql&logoColor=33ff66)
 ![SQLite](https://img.shields.io/badge/SQLite-0a0f0a?style=for-the-badge&logo=sqlite&logoColor=33ff66)
@@ -112,7 +112,7 @@ AUTOMATION   <DIR>    power-automate
 ![Redis](https://img.shields.io/badge/Redis-0a0f0a?style=for-the-badge&logo=redis&logoColor=33ff66)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-0a0f0a?style=for-the-badge&logo=rabbitmq&logoColor=33ff66)
 
-#### ☁️ Cloud, DevOps & Automation
+#### <img src="./assets/icons/cloud.svg" width="18" height="18" alt=""/> Cloud, DevOps & Automation
 
 ![AWS](https://img.shields.io/badge/AWS-0a0f0a?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmYjAwMCIgZD0iTTYuNSAxOWE0LjUgNC41IDAgMCAxLS42LTguOTZBNiA2IDAgMCAxIDE3LjYgOC42IDUuMiA1LjIgMCAwIDEgMTcuNSAxOXoiLz48L3N2Zz4=)
 ![Docker](https://img.shields.io/badge/Docker-0a0f0a?style=for-the-badge&logo=docker&logoColor=ffb000)
@@ -133,7 +133,7 @@ AUTOMATION   <DIR>    power-automate
 <img src="./assets/title-adventure.svg" width="100%" alt="C:\> PLAY ADVENTURE.EXE"/>
 
 <details>
-<summary><b>💾 INSERT DISK &amp; PRESS START</b> &nbsp;<sub>(click to boot the game)</sub></summary>
+<summary><b><img src="./assets/icons/floppy.svg" width="18" height="18" alt=""/> INSERT DISK &amp; PRESS START</b> &nbsp;<sub>(click to boot the game)</sub></summary>
 
 <br/>
 
@@ -143,48 +143,48 @@ The screen reads: "WELCOME, TRAVELER. WHAT DO YOU SEEK?"
 ```
 
 <details>
-<summary><b>[A]</b> 🗂️ "Show me what Rodrigo builds."</summary>
+<summary><b>[A]</b> <img src="./assets/icons/folder.svg" width="18" height="18" alt=""/> "Show me what Rodrigo builds."</summary>
 
 ```text
 The drive spins... A list of repositories materializes on screen.
 ```
-➡️ **[Open the repositories](https://github.com/rmmenendez05?tab=repositories)** &nbsp;·&nbsp; ⭐ Star something you like, it gives +1 XP.
+<img src="./assets/icons/arrow.svg" width="18" height="18" alt=""/> **[Open the repositories](https://github.com/rmmenendez05?tab=repositories)** &nbsp;·&nbsp; <img src="./assets/icons/star.svg" width="18" height="18" alt=""/> Star something you like, it gives +1 XP.
 
 </details>
 
 <details>
-<summary><b>[B]</b> 🤝 "I want to team up / hire him."</summary>
+<summary><b>[B]</b> <img src="./assets/icons/chat.svg" width="18" height="18" alt=""/> "I want to team up / hire him."</summary>
 
 ```text
 A modem screeches: KSSSHHH-BEEEP-BOOP... CONNECTION ESTABLISHED.
 ```
-➡️ Jump to **[F6 CONTACT](#contact)** and send a message. Rodrigo replies faster than a 56k modem.
+<img src="./assets/icons/arrow.svg" width="18" height="18" alt=""/> Jump to **[F6 CONTACT](#contact)** and send a message. Rodrigo replies faster than a 56k modem.
 
 </details>
 
 <details>
-<summary><b>[C]</b> 🧠 "Tell me a secret."</summary>
+<summary><b>[C]</b> <img src="./assets/icons/question.svg" width="18" height="18" alt=""/> "Tell me a secret."</summary>
 
 ```text
 The screen flickers. A hidden directory appears: C:\SECRETS\
 ```
 
 <details>
-<summary>📁 <code>SECRET_01.TXT</code></summary>
+<summary><img src="./assets/icons/file.svg" width="18" height="18" alt=""/> <code>SECRET_01.TXT</code></summary>
 
 > Rodrigo would rather spend 2 hours writing a script than 10 minutes doing a task by hand. Twice.
 
 </details>
 
 <details>
-<summary>📁 <code>SECRET_02.TXT</code></summary>
+<summary><img src="./assets/icons/file.svg" width="18" height="18" alt=""/> <code>SECRET_02.TXT</code></summary>
 
 > His favorite design pattern? *Write the spec first, then let the agents do the typing.*
 
 </details>
 
 <details>
-<summary>🔒 <code>SECRET_03.TXT</code> <sub>(encrypted)</sub></summary>
+<summary><img src="./assets/icons/lock.svg" width="18" height="18" alt=""/> <code>SECRET_03.TXT</code> <sub>(encrypted)</sub></summary>
 
 ```text
 ENTER PASSWORD: ********
@@ -197,7 +197,7 @@ ACCESS GRANTED.
 </details>
 
 <details>
-<summary><b>[D]</b> 🚪 "Turn off the computer."</summary>
+<summary><b>[D]</b> <img src="./assets/icons/power.svg" width="18" height="18" alt=""/> "Turn off the computer."</summary>
 
 ```text
 Are you sure? (Y/N) _
