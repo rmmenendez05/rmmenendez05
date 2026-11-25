@@ -58,6 +58,7 @@
  Directory of C:\STACK
 
 LANGUAGES    <DIR>    python  java  javascript  c#  c
+SHELL        <DIR>    bash  powershell  cmd
 FRONTEND     <DIR>    react  react-native  nativewind  tailwind  css
 BACKEND      <DIR>    spring-boot  flask  fastapi  django
 AI_AGENTS    <DIR>    spec-driven-development
@@ -65,7 +66,7 @@ DATA         <DIR>    postgresql  sqlite  duckdb  pyspark  redis
 MESSAGING    <DIR>    rabbitmq
 CLOUD_DEVOPS <DIR>    aws  docker  ci-cd
 AUTOMATION   <DIR>    power-automate
-              8 Dir(s)   ∞ bytes free for learning
+              9 Dir(s)   ∞ bytes free for learning
 ```
 
 #### 💾 Languages
@@ -75,6 +76,12 @@ AUTOMATION   <DIR>    power-automate
 ![JavaScript](https://img.shields.io/badge/JavaScript-0a0f0a?style=for-the-badge&logo=javascript&logoColor=33ff66)
 ![C#](https://img.shields.io/badge/C%23-0a0f0a?style=for-the-badge&logo=dotnet&logoColor=33ff66)
 ![C](https://img.shields.io/badge/C-0a0f0a?style=for-the-badge&logo=c&logoColor=33ff66)
+
+#### ⌨️ Shell & Scripting
+
+![Bash](https://img.shields.io/badge/Bash-0a0f0a?style=for-the-badge&logo=gnubash&logoColor=ffb000)
+![PowerShell](https://img.shields.io/badge/PowerShell-0a0f0a?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmYjAwMCIgZD0iTTMgNGgxOGwtMyAxNkgweiIvPjxwYXRoIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzBhMGYwYSIgc3Ryb2tlLXdpZHRoPSIyLjIiIGQ9Ik02IDhsNSA0LTYgNCIvPjxwYXRoIGZpbGw9IiMwYTBmMGEiIGQ9Ik0xMSAxNWg1djJoLTV6Ii8+PC9zdmc+)
+![CMD](https://img.shields.io/badge/CMD-0a0f0a?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHJlY3QgeD0iMSIgeT0iMyIgd2lkdGg9IjIyIiBoZWlnaHQ9IjE4IiBmaWxsPSIjZmZiMDAwIi8+PHJlY3QgeD0iMyIgeT0iNyIgd2lkdGg9IjE4IiBoZWlnaHQ9IjEyIiBmaWxsPSIjMGEwZjBhIi8+PHBhdGggZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZiMDAwIiBzdHJva2Utd2lkdGg9IjEuOCIgZD0iTTUgMTBsMyAyLjVMNSAxNSIvPjxwYXRoIGZpbGw9IiNmZmIwMDAiIGQ9Ik0xMCAxNGg1djEuNmgtNXoiLz48L3N2Zz4=)
 
 #### 🖥️ Front-end & Mobile
 
