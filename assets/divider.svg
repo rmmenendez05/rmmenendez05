@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="40" viewBox="0 0 900 40" role="img" aria-label="loading bar">
+  <defs>
+    <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse">
+      <rect width="4" height="2" fill="#000" fill-opacity=".33"/>
+    </pattern>
+    <filter id="glow" x="-10%" y="-30%" width="120%" height="160%">
+      <feGaussianBlur stdDeviation="1.3" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <linearGradient id="beam" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#33ff66" stop-opacity="0"/>
+      <stop offset=".5" stop-color="#33ff66" stop-opacity=".09"/>
+      <stop offset="1" stop-color="#33ff66" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="blk" width="18" height="16" patternUnits="userSpaceOnUse" x="190">
+      <rect x="2" y="0" width="14" height="16" fill="#33ff66"/>
+    </pattern>
+    <clipPath id="fill"><rect x="190" y="12" width="0" height="16">
+      <animate attributeName="width" dur="4.5s" repeatCount="indefinite" calcMode="discrete" values="0;18;36;54;72;90;108;126;144;162;180;198;216;234;252;270;288;306;324;342;360;378;396;414;432;450;468;486;504;522;540;540" keyTimes="0.0000;0.0267;0.0533;0.0800;0.1067;0.1333;0.1600;0.1867;0.2133;0.2400;0.2667;0.2933;0.3200;0.3467;0.3733;0.4000;0.4267;0.4533;0.4800;0.5067;0.5333;0.5600;0.5867;0.6133;0.6400;0.6667;0.6933;0.7200;0.7467;0.7733;0.8000;1.0000"/>
+    </rect></clipPath>
+  </defs>
+  <style>
+    text { font-family:'VT323','Courier New',Courier,'Liberation Mono',monospace; fill:#33ff66; }
+    .dim { fill:#1fa344; } .amber { fill:#ffb000; } .white { fill:#d9ffe2; }
+    .blink { animation: blink 1s steps(1) infinite; }
+    @keyframes blink { 50% { opacity:0 } }</style>
+  <g filter="url(#glow)">
+    <text x="20" y="27" font-size="20">LOADING<tspan class="blink">_</tspan></text>
+    <text x="150" y="27" font-size="20" class="amber" opacity="0"><animate attributeName="opacity" dur=".6s" begin="0.00s" repeatCount="indefinite" calcMode="discrete" values="1;0;0;0" keyTimes="0;.25;.5;.75"/>|</text><text x="150" y="27" font-size="20" class="amber" opacity="0"><animate attributeName="opacity" dur=".6s" begin="0.15s" repeatCount="indefinite" calcMode="discrete" values="1;0;0;0" keyTimes="0;.25;.5;.75"/>/</text><text x="150" y="27" font-size="20" class="amber" opacity="0"><animate attributeName="opacity" dur=".6s" begin="0.30s" repeatCount="indefinite" calcMode="discrete" values="1;0;0;0" keyTimes="0;.25;.5;.75"/>-</text><text x="150" y="27" font-size="20" class="amber" opacity="0"><animate attributeName="opacity" dur=".6s" begin="0.45s" repeatCount="indefinite" calcMode="discrete" values="1;0;0;0" keyTimes="0;.25;.5;.75"/>\</text>
+    <rect x="186" y="8" width="548" height="24" fill="none" stroke="#1fa344" stroke-width="2"/>
+    <rect x="190" y="12" width="540" height="16" fill="url(#blk)" fill-opacity=".12"/>
+    <rect x="190" y="12" width="540" height="16" fill="url(#blk)" clip-path="url(#fill)"/>
+    <text x="750" y="27" font-size="18" opacity="0"><animate attributeName="opacity" dur="4.5s" repeatCount="indefinite" calcMode="discrete" values="0;1;0" keyTimes="0;0.0001;0.0800"/>  0%</text><text x="750" y="27" font-size="18" opacity="0"><animate attributeName="opacity" dur="4.5s" repeatCount="indefinite" calcMode="discrete" values="0;1;0" keyTimes="0;0.0800;0.1600"/> 10%</text><text x="750" y="27" font-size="18" opacity="0"><animate attributeName="opacity" dur="4.5s" repeatCount="indefinite" calcMode="discrete" values="0;1;0" keyTimes="0;0.1600;0.2400"/> 20%</text><text x="750" y="27" font-size="18" opacity="0"><animate attributeName="opacity" dur="4.5s" repeatCount="indefinite" calcMode="discrete" values="0;1;0" keyTimes="0;0.2400;0.3200"/> 30%</text><text x="750" y="27" font-size="18" opacity="0"><animate attributeName="opacity" dur="4.5s" repeatCount="indefinite" calcMode="discrete" values="0;1;0" keyTimes="0;0.3200;0.4000"/> 40%</text><text x="750" y="27" font-size="18" opacity="0"><animate attributeName="opacity" dur="4.5s" repeatCount="indefinite" calcMode="discrete" values="0;1;0" keyTimes="0;0.4000;0.4800"/> 50%</text><text x="750" y="27" font-size="18" opacity="0"><animate attributeName="opacity" dur="4.5s" repeatCount="indefinite" calcMode="discrete" values="0;1;0" keyTimes="0;0.4800;0.5600"/> 60%</text><text x="750" y="27" font-size="18" opacity="0"><animate attributeName="opacity" dur="4.5s" repeatCount="indefinite" calcMode="discrete" values="0;1;0" keyTimes="0;0.5600;0.6400"/> 70%</text><text x="750" y="27" font-size="18" opacity="0"><animate attributeName="opacity" dur="4.5s" repeatCount="indefinite" calcMode="discrete" values="0;1;0" keyTimes="0;0.6400;0.7200"/> 80%</text><text x="750" y="27" font-size="18" opacity="0"><animate attributeName="opacity" dur="4.5s" repeatCount="indefinite" calcMode="discrete" values="0;1;0" keyTimes="0;0.7200;0.8000"/> 90%</text><text x="750" y="27" font-size="18" opacity="0"><animate attributeName="opacity" dur="4.5s" repeatCount="indefinite" calcMode="discrete" values="0;1;0" keyTimes="0;0.8000;1.0000"/>100%</text>
+  </g>
+</svg>
