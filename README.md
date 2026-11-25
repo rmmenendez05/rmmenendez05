@@ -57,7 +57,7 @@
  Volume in drive C is RMM-86
  Directory of C:\STACK
 
-LANGUAGES    <DIR>    python  java  javascript  c#  c
+LANGUAGES    <DIR>    python  java  javascript  typescript  c#  c
 SHELL        <DIR>    bash  powershell  cmd
 FRONTEND     <DIR>    react  react-native  nativewind  tailwind  css
 BACKEND      <DIR>    spring-boot  flask  fastapi  django
@@ -74,6 +74,7 @@ AUTOMATION   <DIR>    power-automate
 ![Python](https://img.shields.io/badge/Python-0a0f0a?style=for-the-badge&logo=python&logoColor=33ff66)
 ![Java](https://img.shields.io/badge/Java-0a0f0a?style=for-the-badge&logo=openjdk&logoColor=33ff66)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0a0f0a?style=for-the-badge&logo=javascript&logoColor=33ff66)
+![TypeScript](https://img.shields.io/badge/TypeScript-0a0f0a?style=for-the-badge&logo=typescript&logoColor=33ff66)
 ![C#](https://img.shields.io/badge/C%23-0a0f0a?style=for-the-badge&logo=dotnet&logoColor=33ff66)
 ![C](https://img.shields.io/badge/C-0a0f0a?style=for-the-badge&logo=c&logoColor=33ff66)
 
